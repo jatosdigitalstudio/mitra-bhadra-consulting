@@ -39,7 +39,7 @@ export const SERVICE: ServiceItem[] = [
   {
     icons: <HiMiniPresentationChartLine />,
     style: "bg-primary",
-    path: "/services/annual-sustainability-reporting",
+    path: "/services/integrated-governance-risk-and-compliance",
     title: "Annual / Sustainability Reporting",
     text: "Laporan Tahunan dan Laporan Berkelanjutan merupakan sarana Organisasi didalam penerapan prinsip GCG yaitu transparansi. Laporan Tahunan juga merupakan sarana penting untuk berkomunikasi dengan Shareholders.",
   },
