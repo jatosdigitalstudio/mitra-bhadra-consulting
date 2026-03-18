@@ -28,8 +28,8 @@ export default function WhistleClient() {
                         className="mb-16"
                     >
                         <div className="w-20 h-1.5 bg-secondary rounded-full mb-6" />
-                        <div className="bg-primary inline-block rounded-xl px-8 py-4 shadow-xl shadow-primary/10">
-                            <h1 className="text-white font-bold leading-tight text-3xl lg:text-4xl uppercase tracking-tight">
+                        <div className="bg-primary inline-block rounded-xl px-6 py-4 shadow-xl shadow-primary/10">
+                            <h1 className="text-white font-bold leading-tight text-2xl lg:text-4xl uppercase tracking-tight">
                                 Whistle Blowing System<span className="italic font-medium opacity-80">(WBS)</span>
                             </h1>
                         </div>

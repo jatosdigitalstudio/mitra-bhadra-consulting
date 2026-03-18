@@ -28,7 +28,7 @@ export default function AboutClient() {
                         transition={{ duration: 0.6 }}
                         className="lg:mr-12 mb-8"
                     >
-                        <div className="border rounded-md w-20 bg-secondary p-0.5 mb-4" />
+                        <div className="w-20 h-1.5 bg-secondary rounded-full mb-4" />
                         <div className="bg-primary rounded-2xl px-6 py-4 shadow-xl shadow-primary/10">
                             <h2 className="text-white font-bold leading-tight text-4xl lg:text-5xl">
                             Tentang <span className="italic font-medium opacity-80">Kami</span>
