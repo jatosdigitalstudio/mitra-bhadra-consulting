@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme inline {
+   /* Main Colors */
+  --color-primary: #026A0B;
+  --color-secondary: #F97500;
+  
+  /* Neutral Palette */
+  --color-black: #222222;
+  --color-white: #ffffff;
+  --color-whitegray: #d0d0d0;
+  --color-grey: #2e2e2e;
+  
+  /* Functional Colors */
+  --color-green-light: #9dd49d;
+  --color-red-light: #ef9a9a;
+  --color-danger: #E02929;
+
+  /* Spacing/Transitions */
+  --nav-height: 80px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--white);
+  color: var(--black);
+}
