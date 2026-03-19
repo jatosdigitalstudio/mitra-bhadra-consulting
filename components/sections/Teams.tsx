@@ -36,7 +36,7 @@ export default function Teams() {
                   <Image 
                     src={`/images/team-${idx + 1}.png`} 
                     fill 
-                    className="object-cover grayscale hover:grayscale-0 transition-all duration-500"
+                    className="object-cover"
                     alt={member.name} 
                   />
                 </div>

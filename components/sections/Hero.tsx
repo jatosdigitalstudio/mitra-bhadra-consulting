@@ -101,8 +101,8 @@ export default function Hero() {
       <div className="absolute inset-0 z-0">
         <div 
           className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-all duration-1000 scale-105
-                     bg-[url('/images/mbc-hero-mobile.png')] 
-                     md:bg-[url('/images/mbc-hero.png')]"
+                     bg-[url('/images/mbc-hero-mobile.webp')] 
+                     md:bg-[url('/images/mbc-hero.webp')]"
         />
       </div>
 
